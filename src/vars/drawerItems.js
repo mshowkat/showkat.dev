@@ -33,8 +33,8 @@ export var upperItems = [
 
 export const lowerItems = [
     {
-        myName: 'Blog',
-        URL: 'http://blog.showkat.dev/'
+        myName: 'Resume',
+        URL: 'https://mshowkat.github.io/resume/'
     },
     {
         myName: 'Facebook',
