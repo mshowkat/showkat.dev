@@ -23,11 +23,11 @@ export var languages = [
     },
     {
         title: 'C',
-        logo: 'https://visualpharm.com/assets/698/C%20Programming-595b40b65ba036ed117d3edc.svg',
+        logo: 'https://cdn4.iconfinder.com/data/icons/academic-disciplines-color/64/coding-256.png',
     },
     {
         title: 'Python',
-        logo: 'https://visualpharm.com/assets/575/Python-595b40b85ba036ed117da8c6.svg',
+        logo: 'https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/660277-Python_logo-256.png',
     },
 
 ]
@@ -35,19 +35,19 @@ export var languages = [
 export var frameworks = [
     {
         title: 'ReactJS',
-        logo: 'https://cdn0.froala.com/assets/editor/pages/B/frameworks/react-6a9ca3fcd0c84c07c1d8bbbad0eb7dfe.svg'
+        logo: 'https://cdn4.iconfinder.com/data/icons/logos-3/426/react_js-256.png'
     },
     {
         title: 'React Native',
-        logo: 'https://images.codedaily.io/icons/react.svg'
+        logo: 'https://cdn4.iconfinder.com/data/icons/logos-3/426/react_js-256.png'
     },
     {
         title: 'Android App Development',
-        logo: 'https://visualpharm.com/assets/255/Android%20Os-595b40b65ba036ed117d3b69.svg'
+        logo: 'https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_Android-256.png'
     },
     {
         title: 'NodeJS',
-        logo: 'https://visualpharm.com/assets/393/Nodejs-595b40b85ba036ed117da6cc.svg'
+        logo: 'https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-256.png'
     },
     {
         title: 'ExpressJS',
@@ -55,7 +55,7 @@ export var frameworks = [
     },
     {
         title: 'npm',
-        logo: 'https://visualpharm.com/assets/523/Npm-595b40b85ba036ed117da71c.svg'
+        logo: 'https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/NPM-256.png'
     },
     {
         title: 'Adonis JS',
@@ -66,10 +66,6 @@ export var frameworks = [
         logo: 'https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg'
     },
     {
-        title: 'Angular2+',
-        logo: 'https://angular.io/assets/images/logos/angular/angular.svg'
-    },
-    {
         title: 'Bootstrap',
         logo: 'https://upload.wikimedia.org/wikipedia/commons/e/ea/Boostrap_logo.svg'
     },
@@ -77,37 +73,29 @@ export var frameworks = [
         title: 'Firebase',
         logo: 'https://spng.pngfly.com/20180417/irq/kisspng-firebase-cloud-messaging-computer-icons-google-clo-github-5ad5d3cde70706.9853526815239628299463.jpg'
     },
-    {
-        title: 'Facebook SDKs',
-        logo: 'https://freeiconshop.com/wp-content/uploads/edd/facebook-flat.png'
-    },
-    {
-        title: 'Google SDKs',
-        logo: 'https://freeiconshop.com/wp-content/uploads/edd/google-flat.png'
-    },
 
 ]
 
 export var others = [
     {
         title: 'Git',
-        logo: 'https://visualpharm.com/assets/991/Git-595b40b65ba036ed117d415b.svg'
+        logo: 'https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_git-256.png'
     },
     {
         title: 'GitHub',
-        logo: 'https://visualpharm.com/assets/253/Github-595b40b65ba036ed117d415c.svg'
+        logo: 'https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/github-256.png'
     },
     {
         title: 'GitLab',
-        logo: 'https://visualpharm.com/assets/254/Gitlab-595b40b65ba036ed117d415e.svg'
+        logo: 'https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-256.png'
     },
     {
         title: 'MongoDB',
         logo: 'https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg'
     },
     {
-        title: 'Arduino',
-        logo: 'https://visualpharm.com/assets/849/Arduino-595b40b65ba036ed117d3b95.svg'
+        title: 'Sublime text',
+        logo: 'https://cdn2.iconfinder.com/data/icons/designer-skills/128/sublime-text-3-256.png'
     },
     {
         title: 'IntelliJ IDA',

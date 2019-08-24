@@ -1,138 +1,42 @@
 import React from "react";
 
 export var androidApps = [
+    // to activate this section please go to src/component/projects.js
+    // then remove comment from WorksGridItems which is named as name='Android Apps'
     {
-        title: 'Desplash',
-        logo: 'https://lh3.googleusercontent.com/ILrto9KguXlr-clbhYKUonpnHszgNp_N5Qvc8_u9QaM71oaqNKcYql2sV3sqZ7nqzsc=s180',
-        subtitle: 'Automatic Free High Quality Wallpapers powered by Unsplash.com',
-        link: 'https://play.google.com/store/apps/details?id=p32929.desplash'
+        title: 'E-commerce site frontend',
+        logo: 'https://cdn4.iconfinder.com/data/icons/logos-3/426/react_js-256.png',
+        subtitle: 'Created using ReactJS and redux',
+        link: 'https://github.com/mshowkat/react-js-e-commerce'
     },
-    {
-        title: 'The Great Postman',
-        logo: 'https://lh3.googleusercontent.com/ni-lk3b2nTMZyC7r1wYBW6cm9eYqGAN-t6fXV-kD0lSyw1lO3kenC1We71fZjSryvFII=s180',
-        subtitle: 'Powerful, Lightweight REST API client for Android',
-        link: 'https://play.google.com/store/apps/details?id=p32929.greatpostman'
-    },
-    {
-        title: 'Sleepy - Addiction Remover',
-        logo: 'https://lh3.googleusercontent.com/vvp6Ev33xPerWBBOtIRyAHl7k5c4wQ72hGwG3EU4JC-BTjfvb5DSJDeMABaRg0fy_KI=s180',
-        subtitle: 'The one and only EFFECTIVE addiction remover on Google Play store',
-        link: 'https://play.google.com/store/apps/details?id=p32929.lazyphone'
-    },
-    {
-        title: 'CGPA Calculator',
-        logo: 'https://lh3.googleusercontent.com/trpGkuBRWnBXNDNyts-7ePwmPtTLQ_8pKoMWi-6Iy8eBomjZ8XrVi4zQcEWrmoGLKA=s180',
-        subtitle: 'A simple yet effective CGPA Calculator for University students',
-        link: 'https://play.google.com/store/apps/details?id=p32929.cgpa_calculator'
-    },
-    {
-        title: 'Buy Sell BD',
-        logo: 'https://i.ibb.co/RSHT7z4/icon.png',
-        subtitle: 'A better & more reliable alternative for Bikroy.com - A marketplace app for buying-selling new/used goods',
-        link: 'https://play.google.com/store/apps/details?id=p32929.buysellbd'
-    },
-    {
-        title: 'ExIn',
-        logo: 'https://lh3.googleusercontent.com/X8mRJd7JajvDXoW7NaluKt2IvC3osH6czkTPoWeSYJ96U2LWLKT4xiFgvNouwf-UvEk=s180',
-        subtitle: 'A Simple & user friendly income-expense tracker ',
-        link: 'https://play.google.com/store/apps/details?id=p32929.exin'
-    },
-    {
-        title: 'ফিফা ওয়ার্ল্ডকাপ ২০১৮ - (Discontinued)',
-        logo: 'https://lh3.googleusercontent.com/zuluY4xOXx7PIMCvul4fowmOvMlc-3wsHwxGAASo3qZQ-9byd-uJWZ9kzUgclD4Nhrg=s180',
-        subtitle: 'FIFA Worldcup 2018 All In One ',
-        link: 'https://play.google.com/store/apps/details?id=p32929.worldcup2018'
-    },
-    {
-        title: 'I am free',
-        logo: 'https://lh3.googleusercontent.com/LIgX0ABT8z3MFILXFfrXK7vNO9j0hTxJ2aSdGwdcsdJUtViMWAsKXEiG65g94dV_i7JE=s180',
-        subtitle: 'বেকার মুক্ত বাংলাদেশ গড়ার লক্ষ্যে - I am FREE',
-        link: 'https://play.google.com/store/apps/details?id=p32929.imfree'
-    },
-    {
-        title: 'EasyGooglePlayDownloader',
-        logo: 'https://user-images.githubusercontent.com/6418354/56405936-8a807d80-6290-11e9-8bc3-9e7e1fd40e5d.png',
-        subtitle: 'A lightweight, user friendly APK downloader for Android - directly from Google Play',
-        link: 'https://github.com/p32929/EasyGooglePlayDownloader'
-    },
-    {
-        title: 'MyEyes',
-        logo: 'https://image.flaticon.com/icons/svg/1614/1614505.svg',
-        subtitle: 'Indoor Navigation App for Blind People',
-        link: 'https://github.com/p32929'
-    },
-    {
-        title: 'BirthdayBot',
-        logo: 'https://image.flaticon.com/icons/svg/415/415587.svg',
-        subtitle: 'Birthday wishing apps, made for individual people...',
-        link: 'https://github.com/p32929/BirthdayBot/'
-    },
-    {
-        title: 'OurOfficeApp',
-        logo: 'https://image.flaticon.com/icons/svg/230/230338.svg',
-        subtitle: 'An Android client for managing our internal office tasks',
-        link: 'https://github.com/p32929/OurOfficeApp/'
-    },
-
 ]
 
 export var androidLibs = [
+    // to activate this section please go to src/component/projects.js
+    // then remove comment from WorksGridItems which is named as name='android Libs'
     {
-        title: 'AndroidEasySQL-Library',
-        logo: 'https://www.svgrepo.com/show/255832/sql.svg',
-        subtitle: 'An Easier & Lazier approach to SQL database for Android',
-        link: 'https://github.com/p32929/AndroidEasySQL-Library'
-    },
-    {
-        title: 'FayazPermissions',
-        logo: 'https://previews.123rf.com/images/carmenbobo/carmenbobo1405/carmenbobo140500325/28279668-timbre-avec-la-permission-de-mot-%C3%A0-l-int%C3%A9rieur-illustration-vectorielle.jpg',
-        subtitle: 'An Easier & Lazier approach to getting runtime permission in Android ',
-        link: 'https://github.com/p32929/FayazPermissions'
-    },
-    {
-        title: 'AndroidAppLockscreen',
-        logo: 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Gartoon_apps_lockscreen.svg',
-        subtitle: 'An Easier & Lazier approach to getting runtime permission in Android ',
-        link: 'https://github.com/p32929/AndroidAppLockscreen'
-    },
-    {
-        title: 'ManufacturerBatteryOptimization',
-        logo: 'https://image.flaticon.com/icons/svg/148/148864.svg',
-        subtitle: 'Simple helper class for Android Battery Optimization ignoring in some devices',
-        link: 'https://gist.github.com/p32929/41e7af650f6a2c11e9306ab600fb9b03'
+        title: 'E-commerce site frontend',
+        logo: 'https://cdn4.iconfinder.com/data/icons/logos-3/426/react_js-256.png',
+        subtitle: 'Created using ReactJS and redux',
+        link: 'https://github.com/mshowkat/react-js-e-commerce'
     },
 
 ]
 
 export var desktopApps = [
+    // to activate this section please go to src/component/projects.js
+    // then remove comment from WorksGridItems which is named as name='desktop Apps'
     {
-        title: 'Electron-Pomotodo',
-        logo: 'https://cdn0.iconfinder.com/data/icons/vegetables-ii-color/290/18-512.png',
-        subtitle: 'A pomotodo app that forces you to take a break - created using ElectronJS',
-        link: 'https://github.com/p32929/Electron-Pomotodo'
-    },
-    {
-        title: 'Shortcut-Virus-Remover',
-        logo: 'https://image.flaticon.com/icons/svg/1547/1547475.svg',
-        subtitle: 'Shortcut virus remover app for Windows',
-        link: 'https://github.com/p32929/Shortcut-Virus-Remover'
-    },
-    {
-        title: 'Linux_Screen_Dimmer',
-        logo: 'https://image.flaticon.com/icons/svg/262/262551.svg',
-        subtitle: 'A simple screen dimming utility for linux',
-        link: 'https://github.com/p32929/Linux_Screen_Dimmer'
-    },
-    {
-        title: 'MoodyLauncher',
-        logo: 'https://image.flaticon.com/icons/svg/977/977657.svg',
-        subtitle: 'A simple App Launcher Script that runs a list of apps depending on the users mood',
-        link: 'https://github.com/p32929/MoodyLauncher'
+        title: 'E-commerce site frontend',
+        logo: 'https://cdn4.iconfinder.com/data/icons/logos-3/426/react_js-256.png',
+        subtitle: 'Created using ReactJS and redux',
+        link: 'https://github.com/mshowkat/react-js-e-commerce'
     },
 
 ]
 
 export var webApps = [
+    // this is an active component
     {
         title: 'E-commerce site frontend',
         logo: 'https://cdn4.iconfinder.com/data/icons/logos-3/426/react_js-256.png',
@@ -161,89 +65,26 @@ export var webApps = [
 ]
 
 export var NDAs = [
+    // to activate this section please go to src/component/projects.js
+    // then remove comment from WorksGridItems which is named as name='NDAs'
     {
-        title: 'Shajao',
-        logo: 'https://image.flaticon.com/icons/svg/511/511139.svg',
-        subtitle: '---',
-        link: 'about:blank'
-    },
-    {
-        title: 'Thamao',
-        logo: 'https://image.flaticon.com/icons/svg/511/511140.svg',
-        subtitle: '---',
-        link: 'about:blank'
-    },
-    {
-        title: 'GeenPunt',
-        logo: 'https://image.flaticon.com/icons/svg/511/511127.svg',
-        subtitle: '---',
-        link: 'about:blank'
-    },
-    {
-        title: 'AdsHacker',
-        logo: 'https://image.flaticon.com/icons/svg/511/511121.svg',
-        subtitle: '---',
-        link: 'about:blank'
-    },
-    {
-        title: 'Fast English Academy',
-        logo: 'https://image.flaticon.com/icons/svg/511/511126.svg',
-        subtitle: '---',
-        link: 'about:blank'
+        title: 'E-commerce site frontend',
+        logo: 'https://cdn4.iconfinder.com/data/icons/logos-3/426/react_js-256.png',
+        subtitle: 'Created using ReactJS and redux',
+        link: 'https://github.com/mshowkat/react-js-e-commerce'
     },
 
 ]
 
 export var others = [
+    // to activate this section please go to src/component/projects.js
+    // then remove comment from WorksGridItems which is named as name='others'
     {
-        title: 'CGPA_Calculator',
-        logo: 'https://image.flaticon.com/icons/svg/201/201558.svg',
-        subtitle: 'CGPA Calculator made using C',
-        link: 'https://github.com/p32929/CGPA_Calculator'
+        title: 'E-commerce site frontend',
+        logo: 'https://cdn4.iconfinder.com/data/icons/logos-3/426/react_js-256.png',
+        subtitle: 'Created using ReactJS and redux',
+        link: 'https://github.com/mshowkat/react-js-e-commerce'
     },
-    {
-        title: 'PersonalDiary',
-        logo: 'https://image.flaticon.com/icons/png/512/1390/1390977.png',
-        subtitle: 'A personal diary writer created using C',
-        link: 'https://github.com/p32929/PersonalDiary'
-    },
-    {
-        title: 'PaGeHe',
-        logo: 'https://image.flaticon.com/icons/svg/1197/1197398.svg',
-        subtitle: 'Password generators created using C++',
-        link: 'https://github.com/p32929/PaGeHe'
-    },
-    {
-        title: 'MathBlitz',
-        logo: 'https://image.flaticon.com/icons/svg/201/201551.svg',
-        subtitle: 'Simple math game created using C',
-        link: 'https://github.com/p32929/MathBlitz'
-    },
-    {
-        title: 'PaGeHa',
-        logo: 'https://image.flaticon.com/icons/svg/1197/1197398.svg',
-        subtitle: 'Password generator created using C',
-        link: 'https://github.com/p32929/PaGeHa'
-    },
-    {
-        title: 'TicTacToe',
-        logo: 'https://image.flaticon.com/icons/svg/1426/1426479.svg',
-        subtitle: 'A TicTacToe game made using C ',
-        link: 'https://github.com/p32929/TicTacToe'
-    },
-    {
-        title: 'Server_up_down_checker_and_notifier',
-        logo: 'https://image.flaticon.com/icons/svg/1508/1508864.svg',
-        subtitle: 'Server up-down checker created using python',
-        link: 'https://github.com/p32929/MyPython3Scripts/blob/master/Server_up_down_checker_and_notifier.py'
-    },
-    {
-        title: '.gitignore',
-        logo: 'https://image.flaticon.com/icons/svg/1680/1680862.svg',
-        subtitle: 'A collection of gitignore files that I use',
-        link: 'https://github.com/p32929/.gitignore'
-    }
-
 ]
 
 export var icons = [
