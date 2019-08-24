@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "399637358cc46bbbbe9d",
+    "revision": "21dab5d28cf618783fb9",
     "url": "/showkat.dev/static/css/main.be075eae.chunk.css"
   },
   {
-    "revision": "399637358cc46bbbbe9d",
-    "url": "/showkat.dev/static/js/main.043e2e26.chunk.js"
+    "revision": "21dab5d28cf618783fb9",
+    "url": "/showkat.dev/static/js/main.f1532425.chunk.js"
   },
   {
     "revision": "65b514bf5174204f553a",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/showkat.dev/static/js/2.35e6fa64.chunk.js"
   },
   {
-    "revision": "17fd24ed5900d9e7f7f3aef787f761d2",
+    "revision": "5a3b2cae46318ac70b6d69d67993b07d",
     "url": "/showkat.dev/index.html"
   }
 ];
