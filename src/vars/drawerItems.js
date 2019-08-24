@@ -28,7 +28,7 @@ export var upperItems = [
     {
         myName: 'Resume',
         icon: <InfoIcon />,
-        URL: 'https://mshowkat.github.io/resume/'
+        to: 'https://mshowkat.github.io/resume/'
     },
 ]
 
