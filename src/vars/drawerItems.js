@@ -10,6 +10,10 @@ export var upperItems = [
         icon: <HomeIcon/>,
         to: '/'
     },
+    // {
+    //     myName: 'About',
+    //     icon: <InfoIcon/>
+    // },
     {
         myName: 'Skills',
         icon: <SettingsIcon/>,
@@ -25,15 +29,13 @@ export var upperItems = [
         icon: <ContactsIcon/>,
         to: '/contact'
     },
-    {
-        myName: 'Resume',
-        icon: <InfoIcon />,
-        to: 'https://mshowkat.github.io/resume/'
-    },
 ]
 
 export const lowerItems = [
-
+    {
+        myName: 'Resume',
+        URL: 'https://mshowkat.github.io/resume/'
+    },
     {
         myName: 'Facebook',
         URL: 'https://www.facebook.com/mh.showkat.1'
