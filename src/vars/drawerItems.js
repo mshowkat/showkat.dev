@@ -38,7 +38,7 @@ export const lowerItems = [
     },
     {
         myName: 'Facebook',
-        URL: 'https://www.facebook.com/mh.showkat.1'
+        URL: 'https://www.facebook.com/justshowkat/'
     },
     {
         myName: 'Twitter',
