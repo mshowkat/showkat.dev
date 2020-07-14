@@ -22,7 +22,7 @@ export var socialLinks = [
         link: 'https://www.linkedin.com/in/mshowkat/'
     },
     {
-        title: '',
+        title: 'stackoverflow',
         logo: 'https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/overflow-256.png',
         link: 'https://stackoverflow.com/users/10994549/mh-showkat'
     },
